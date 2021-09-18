@@ -45,3 +45,7 @@ a.internal-link::after {
   box-shadow: 5px 5px 10px #999;
 }
 
+img.avatar-img {
+  max-width: 250px;
+  border-radius: 50px;
+}
