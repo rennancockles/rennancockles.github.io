@@ -1,0 +1,85 @@
+site_name: Rennan Cockles
+site_description: Minha descrição.
+site_url: https://r3ck.com.br/
+
+site_dir: docs_build
+
+theme:
+  name: material
+  # favicon: assets/img/pacote.png
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+  # logo: assets/img/avatar.jpg
+  language: pt
+  features:
+    - search.suggest
+    - search.highlight
+
+nav:
+  - Home: index.md
+  - packages.md
+  - services.md
+  # - Languages:
+  #   - pt: /
+  #   - en: /en/
+
+plugins:
+  - search
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - markdown.extensions.codehilite:
+      guess_lang: false
+  - admonition
+  - codehilite
+  - extra
+  - pymdownx.details
+  - pymdownx.superfences:
+      custom_fences:
+      - name: mermaid
+        class: mermaid
+        format: !!python/name:pymdownx.superfences.fence_div_format ''
+  - pymdownx.tabbed
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/docker
+      link: https://hub.docker.com/u/rennancockles
+      name: Docker Hub
+    - icon: fontawesome/brands/github
+      link: https://github.com/rennancockles/
+      name: Github
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/rennancockles
+      name: LinkedIn
+    - icon: fontawesome/brands/medium
+      link: https://r3ck0.medium.com/
+      name: Medium
+  # alternate:
+  # - name: Português
+  #   link: /
+  #   lang: pt
+  # - name: English
+  #   link: /en/
+  #   lang: en
+
+copyright: © All rights reserved. And all that stuff. 🤷
+
+extra_css:
+  - assets/css/custom.css
+  - assets/css/termynal.css
+
+extra_javascript:
+  - assets/js/termynal.js
+  - assets/js/custom.js
