@@ -47,3 +47,33 @@
     </a>
   </p>
 </div>
+
+<div class="package">
+  <h2 class="package-title">
+    <a href="https://fastapi-vo.r3ck.com.br">
+      <strong>amazonlinux-python-buildpack</strong>
+    </a>
+  </h2>
+  <p class="package-description"><em>Amazon Linux base compilation image for applications in Python 3.6 and above.</em></p>
+
+  <p class="package-badges">
+    <a href="https://github.com/rennancockles/amazonlinux-python-buildpack-docker/actions?query=workflow%3ADeploy" target="_blank">
+        <img src="https://img.shields.io/github/workflow/status/rennancockles/amazonlinux-python-buildpack-docker/Deploy?logo=github" alt="Deploy">
+    </a>
+    <a href="https://hub.docker.com/repository/docker/rennancockles/amazonlinux-python-buildpack" target="_blank">
+        <img src="https://img.shields.io/docker/v/rennancockles/amazonlinux-python-buildpack/python3.6?logo=docker" alt="Docker Python 3.6">
+    </a>
+    <a href="https://hub.docker.com/repository/docker/rennancockles/amazonlinux-python-buildpack" target="_blank">
+        <img src="https://img.shields.io/docker/v/rennancockles/amazonlinux-python-buildpack/python3.7?logo=docker" alt="Docker Python 3.7">
+    </a>
+    <a href="https://hub.docker.com/repository/docker/rennancockles/amazonlinux-python-buildpack" target="_blank">
+        <img src="https://img.shields.io/docker/v/rennancockles/amazonlinux-python-buildpack/python3.8?logo=docker" alt="Docker Python 3.8">
+    </a>
+    <a href="https://hub.docker.com/repository/docker/rennancockles/amazonlinux-python-buildpack" target="_blank">
+        <img src="https://img.shields.io/docker/v/rennancockles/amazonlinux-python-buildpack/python3.9?logo=docker" alt="Docker Python 3.9">
+    </a>
+    <a href="https://hub.docker.com/repository/docker/rennancockles/amazonlinux-python-buildpack" target="_blank">
+        <img src="https://img.shields.io/docker/v/rennancockles/amazonlinux-python-buildpack/latest?logo=docker" alt="Docker Latest">
+    </a>
+  </p>
+</div>
