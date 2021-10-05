@@ -1,4 +1,4 @@
-# Serviços
+# Services
 
 
 <div class="package">
@@ -8,9 +8,11 @@
     </a>
   </h2>
   <p class="package-description">
-    <em>Controle de horas trabalhadas para freelancer.</em>
+    <em>Time tracking application for freelancers.</em>
   </p>
 </div>
+
+---
 
 <div class="package">
   <h2 class="package-title">

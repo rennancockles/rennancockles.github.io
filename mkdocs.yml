@@ -26,6 +26,7 @@ theme:
 
 nav:
   - Home: index.md
+  - Resume: "https://resume.r3ck.com.br"
   - packages.md
   - services.md
   # - Languages:

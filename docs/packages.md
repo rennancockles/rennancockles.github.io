@@ -1,4 +1,4 @@
-# Pacotes
+# Packages
 
 <div class="package">
   <h2 class="package-title">
@@ -24,6 +24,8 @@
   </p>
 </div>
 
+---
+
 <div class="package">
   <h2 class="package-title">
     <a href="https://fastapi-vo.r3ck.com.br">
@@ -48,10 +50,12 @@
   </p>
 </div>
 
+---
+
 <div class="package">
   <h2 class="package-title">
-    <a href="https://fastapi-vo.r3ck.com.br">
-      <strong>amazonlinux-python-buildpack</strong>
+    <a href="https://hub.docker.com/r/rennancockles/amazonlinux-python-buildpack">
+      <strong>amazonlinux-python-buildpack-docker</strong>
     </a>
   </h2>
   <p class="package-description"><em>Amazon Linux base compilation image for applications in Python 3.6 and above.</em></p>
@@ -74,6 +78,25 @@
     </a>
     <a href="https://hub.docker.com/repository/docker/rennancockles/amazonlinux-python-buildpack" target="_blank">
         <img src="https://img.shields.io/docker/v/rennancockles/amazonlinux-python-buildpack/latest?logo=docker" alt="Docker Latest">
+    </a>
+  </p>
+</div>
+
+---
+
+<div class="package">
+  <h2 class="package-title">
+    <a href="https://github.com/marketplace/actions/resume-template">
+      <strong>resume-action</strong>
+    </a>
+  </h2>
+  <p class="package-description">
+    <em>Github action to generate a resume and host with github pages.</em>
+  </p>
+
+  <p class="package-badges">
+    <a href="https://github.com/rennancockles/resume-action/releases/tag/v1" target="_blank">
+        <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/rennancockles/resume-action?logo=github">
     </a>
   </p>
 </div>
