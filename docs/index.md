@@ -2,17 +2,17 @@
   <img src="https://avatars.githubusercontent.com/u/2038003?s=1508&v=4" alt="Avatar" class="avatar-img"/>
 </div>
 
-Hey! I'm Rennan Cockles 👋
 
-I'm a software/data engineer from Brazil. 🇧🇷
+Hey! I’m Rennan Cockles 👋
 
-I have a bachelor's degree in Computer Engineering with emphasis on computational modeling by the State University of Rio de Janeiro (UERJ). 👨‍🎓
+I’m a software and machine learning engineer from Brazil. 🇧🇷
 
-I currently work as a specialist data engineer at <a href="https://wittel.com" rel="noopener noreferrer nofollow" target="_blank">Wittel</a> and <a href="https://blueorange.digital" rel="noopener noreferrer nofollow" target="_blank">Blue Orange</a> 👨‍💼
+I hold a bachelor’s degree in Computer Engineering with an emphasis on Computational Modeling from the State University of Rio de Janeiro (UERJ). 👨‍🎓
 
-I have more than 10 years of experience in several technology areas such as software engineer, data engineer, artificial intelligence and infrastructure. 👨‍💻
+Currently, I work as a Senior Machine Learning Engineer at Blue Orange. 👨‍💼
 
-I love to solve problems and like to think that there is always a simple solution to them and usually automating is one of them. 🤓
+I have over 10 years of experience in various technology domains, including software engineering, data engineering, machine learning, genai, cloud and infrastructure. 👨‍💻
 
-I like to build things with Machine Learning/Deep Learning, Docker, Bash Script, Python, NodeJS, VueJS, TypeScript (and JavaScript) and modern backend APIs. 👊
+I love solving problems and believe that there’s always a simple solution — often through automation. 🤓
 
+I enjoy building things with Machine Learning, GenAI, Docker, Bash, Python, and modern backend APIs. 👊
