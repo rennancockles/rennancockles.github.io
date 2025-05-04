@@ -7,12 +7,12 @@ Hey! I’m Rennan Cockles 👋
 
 I’m a software and machine learning engineer from Brazil. 🇧🇷
 
-I hold a bachelor’s degree in Computer Engineering with an emphasis on Computational Modeling from the State University of Rio de Janeiro (UERJ). 👨‍🎓
+I hold a bachelor’s degree in Computer Engineering with an emphasis on Computational Modeling from the State University of Rio de Janeiro (UERJ). 🎓​
 
-Currently, I work as a Senior Machine Learning Engineer at Blue Orange. 👨‍💼
+Currently, I work as a Senior Machine Learning Engineer at Blue Orange Digital, where I focus on developing scalable and efficient solutions. 💼​
 
-I have over 10 years of experience in various technology domains, including software engineering, data engineering, machine learning, genai, cloud and infrastructure. 👨‍💻
+I have over 10 years of experience in various technology domains, including software engineering, data engineering, machine learning, genai, cloud and infrastructure. 💻​
 
-I love solving problems and believe that there’s always a simple solution — often through automation. 🤓
+I actively contribute to Bruce Firmware, one of the largest ESP32-based firmware projects focused on information security and hacking. 🤖​
 
-I enjoy building things with Machine Learning, GenAI, Docker, Bash, Python, and modern backend APIs. 👊
+I'm passionate about problem-solving and believe in the power of automation to simplify complex tasks. 👊
